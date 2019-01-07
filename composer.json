@@ -9,10 +9,5 @@
             "role": "Developer",
             "homepage": "https://github.com/ttillberg"
         }
-    ],
-    "extra": {
-        "branch-alias": {
-            "dev-master": "master"
-        }
-    }  
+    ] 
 }
